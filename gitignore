@@ -1,0 +1,9 @@
+*.h5
+FER/
+*.pptx
+*.docx
+*.pdf
+__pycache__/
+__MACOSX/
+.ipynb_checkpoints/
+.env
